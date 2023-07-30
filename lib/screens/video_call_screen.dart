@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:jitsi_meet_v1/jitsi_meet.dart';
-import 'package:jitsi_meet_v1/room_name_constraint.dart';
 import 'package:zoom_clone/resources/auth_methods.dart';
 import 'package:zoom_clone/resources/jitsi_meet_methods.dart';
 import 'package:zoom_clone/screens/meeting_option.dart';
